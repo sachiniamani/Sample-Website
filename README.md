@@ -1,5 +1,5 @@
 # Hello I am Sachini
-i am currently studying at **NSBM**. Following are my noticible points.
+I am currently studying at **NSBM**. Following are my noticible points.
 
 * item 1
 * item 2
